@@ -1,0 +1,11 @@
+{
+  "name": "OMNISURE",
+  "description": "Premium customer-facing InsurTech platform featuring AI Document Scan & Fraud Detection, AI Advisor, AI Underwriting, Voice Copilot, and Interactive Vehicle Damage Claims.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
